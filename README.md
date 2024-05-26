@@ -2,17 +2,17 @@
 
 ## Introduction
 
-**- Time Series Analysis is a statistical method used to analyze data points collected, recorded, or measured over a period of time, typically at regular intervals. It aims to uncover patterns, trends, and relationships within the data to make predictions or understand the underlying processes.**
-
-**- In the context of stocks, Time Series Analysis can be used to analyze historical stock price data to identify trends, seasonality, and patterns that can help investors make informed decisions about buying, selling, or holding stocks.**
-
-**- For example, consider the daily closing prices of a particular stock over the past year. By applying Time Series Analysis techniques, such as calculating moving averages, identifying trends, or fitting forecasting models, we can analyze the historical data to:**
+  **Time Series Analysis is a statistical method used to analyze data points collected, recorded, or measured over a period of time, typically at regular intervals. It aims to uncover patterns, trends, and     relationships within the data to make predictions or understand the underlying processes.**
+  
+  **In the context of stocks, Time Series Analysis can be used to analyze historical stock price data to identify trends, seasonality, and patterns that can help investors make informed decisions about buying, selling, or holding stocks.**
+  
+  **For example, consider the daily closing prices of a particular stock over the past year. By applying Time Series Analysis techniques, such as calculating moving averages, identifying trends, or fitting forecasting models, we can analyze the historical data to:**
 
   1. Identify trends: Determine whether the stock price has been increasing, decreasing, or remaining relatively stable over time.
   2. Detect seasonality: Identify recurring patterns or cycles in the stock price that occur at regular intervals, such as daily, weekly, or monthly fluctuations.
   3. Make forecasts: Use historical data to predict future stock prices, allowing investors to anticipate potential price movements and make informed investment decisions.
 
-This repository provides Python code for conducting Time Series Analysis on stock price data using the yfinance library and Plotly for visualizations.
+  ### This repository provides Python code for conducting Time Series Analysis on stock price data using the yfinance library and Plotly for visualizations.
 ---
 
 ## Python Code Overview
